@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">HelloUP</string>
+    <string name="login">Login</string>
+    <string name="msg_informe_login">Informe o login</string>
+    <string name="msg_login_error">Erro no login,digite novamente.</string>
 </resources>
